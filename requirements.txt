@@ -1,0 +1,8 @@
+pandas>=2.1
+numpy>=1.26
+sktime>=0.24.0
+scikit-learn>=1.4
+xgboost>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+pyarrow>=15.0
